@@ -1,0 +1,23 @@
+.textbox {
+  border-radius: 5px;
+  color: black;
+  padding: 5px;
+  border: 1px solid lightgray;
+}
+
+.button {
+  background: #222;
+  color: white;
+  padding: 10px;
+  margin: 10px;
+  outline: none;
+  border: none;
+  border-radius: 5px;
+}
+.button:hover {
+  background: #666;
+}
+.button:active {
+  background: white;
+  color: black;
+}
